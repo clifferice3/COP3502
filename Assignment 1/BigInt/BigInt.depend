@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1359147232 source:c:\cop3502c\assignment 1\bigintmult.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
